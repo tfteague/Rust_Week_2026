@@ -1,1 +1,0 @@
-C:\Users\trevo\OneDrive\Documents\Rust_Week\Rust_Week_2026\Example_Code\day_1\widom_rowlinson\target\debug\widom_rowlinson.exe: C:\Users\trevo\OneDrive\Documents\Rust_Week\Rust_Week_2026\Example_Code\day_1\widom_rowlinson\src\main.rs

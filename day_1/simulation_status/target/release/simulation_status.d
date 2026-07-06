@@ -1,1 +1,0 @@
-C:\Users\trevo\OneDrive\Documents\Rust_Week\Rust_Week_2026\Example_Code\day_1\simulation_status\target\release\simulation_status.exe: C:\Users\trevo\OneDrive\Documents\Rust_Week\Rust_Week_2026\Example_Code\day_1\simulation_status\src\main.rs

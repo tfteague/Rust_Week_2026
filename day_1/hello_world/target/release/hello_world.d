@@ -1,1 +1,0 @@
-C:\Users\trevo\OneDrive\Documents\Rust_Week\Rust_Week_2026\Example_Code\day_1\hello_world\target\release\hello_world.exe: C:\Users\trevo\OneDrive\Documents\Rust_Week\Rust_Week_2026\Example_Code\day_1\hello_world\src\main.rs

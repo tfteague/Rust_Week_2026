@@ -1,6 +1,0 @@
-C:\Users\trevo\OneDrive\Documents\Rust_Week\Rust_Week_2026\Example_Code\day_1\fibonacci_sphere\target\debug\build\libm-57e1d7ef0353edda\build_script_build-57e1d7ef0353edda.d: C:\Users\trevo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libm-0.2.16\build.rs C:\Users\trevo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libm-0.2.16\configure.rs
-
-C:\Users\trevo\OneDrive\Documents\Rust_Week\Rust_Week_2026\Example_Code\day_1\fibonacci_sphere\target\debug\build\libm-57e1d7ef0353edda\build_script_build-57e1d7ef0353edda.exe: C:\Users\trevo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libm-0.2.16\build.rs C:\Users\trevo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libm-0.2.16\configure.rs
-
-C:\Users\trevo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libm-0.2.16\build.rs:
-C:\Users\trevo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libm-0.2.16\configure.rs:
