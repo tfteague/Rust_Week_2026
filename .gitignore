@@ -1,1 +1,12 @@
-/target
+# Rust build artifacts (any project depth)
+target/
+
+# rustfmt backups
+**/*.rs.bk
+
+# MSVC debug info
+*.pdb
+
+# Python
+__pycache__/
+*.pyc
