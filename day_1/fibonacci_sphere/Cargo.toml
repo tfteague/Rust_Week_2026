@@ -1,0 +1,14 @@
+[package]
+name = "fibonacci_sphere"
+version = "0.1.0"
+edition = "2024"
+description = "Day 1: initialize mesh particles on a sphere with a Fibonacci lattice (hoomd-rs)"
+
+# hoomd-rs crates (https://hoomd-rs.readthedocs.io/en/1.1.0)
+[dependencies]
+hoomd-vector = "1.1.0"   # Cartesian<N>, Quaternion, Versor
+hoomd-gsd = "1.1.0"      # HoomdGsdFile: write/read GSD files
+
+# Binaries are auto-discovered:
+#   src/main.rs         -> `fibonacci_sphere` (student template):  cargo run
+#   src/bin/solution.rs -> `solution` (worked solution):          cargo run --bin solution

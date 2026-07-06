@@ -1,0 +1,14 @@
+[package]
+name = "widom_rowlinson"
+version = "0.1.0"
+edition = "2024"
+description = "Day 1: render a Widom-Rowlinson lattice as colored-square emojis (closures + match)"
+
+[dependencies]
+hoomd-rand = "1.1.0"
+rand = "0.10.1"
+rand_core = "0.10.1"
+
+# Binaries are auto-discovered:
+#   src/main.rs         -> `widom_rowlinson` (student template):  cargo run
+#   src/bin/solution.rs -> `solution` (worked solution):          cargo run --bin solution

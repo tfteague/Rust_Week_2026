@@ -1,0 +1,14 @@
+[package]
+name = "hex_diamond"
+version = "0.1.0"
+edition = "2024"
+description = "Day 1: unit cell of a hexagonal-diamond assembly of patchy tetrahedra (hoomd-rs)"
+
+# hoomd-rs crates (https://hoomd-rs.readthedocs.io/en/1.1.0)
+[dependencies]
+hoomd-vector = "1.1.0"   # Cartesian<N>, Quaternion, Versor
+hoomd-gsd = "1.1.0"      # HoomdGsdFile: write/read GSD files
+
+# Binaries are auto-discovered:
+#   src/main.rs         -> `hex_diamond` (student template):  cargo run
+#   src/bin/solution.rs -> `solution` (worked solution):      cargo run --bin solution
