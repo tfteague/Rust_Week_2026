@@ -1,0 +1,9 @@
+C:\Users\trevo\OneDrive\Documents\Rust_Week\Rust_Week_2026\Example_Code\day_1\fibonacci_sphere\target\debug\deps\approx_derive-710a77dd95c6d067.d: C:\Users\trevo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-derive-0.2.8\src\lib.rs C:\Users\trevo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-derive-0.2.8\src\abs_diff_eq.rs C:\Users\trevo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-derive-0.2.8\src\args_parsing.rs C:\Users\trevo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-derive-0.2.8\src\base_types.rs C:\Users\trevo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-derive-0.2.8\src\rel_diff_eq.rs
+
+C:\Users\trevo\OneDrive\Documents\Rust_Week\Rust_Week_2026\Example_Code\day_1\fibonacci_sphere\target\debug\deps\approx_derive-710a77dd95c6d067.dll: C:\Users\trevo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-derive-0.2.8\src\lib.rs C:\Users\trevo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-derive-0.2.8\src\abs_diff_eq.rs C:\Users\trevo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-derive-0.2.8\src\args_parsing.rs C:\Users\trevo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-derive-0.2.8\src\base_types.rs C:\Users\trevo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-derive-0.2.8\src\rel_diff_eq.rs
+
+C:\Users\trevo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-derive-0.2.8\src\lib.rs:
+C:\Users\trevo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-derive-0.2.8\src\abs_diff_eq.rs:
+C:\Users\trevo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-derive-0.2.8\src\args_parsing.rs:
+C:\Users\trevo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-derive-0.2.8\src\base_types.rs:
+C:\Users\trevo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-derive-0.2.8\src\rel_diff_eq.rs:

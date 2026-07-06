@@ -1,0 +1,1 @@
+std::ops::Range<usize>: SampleRange<f64>

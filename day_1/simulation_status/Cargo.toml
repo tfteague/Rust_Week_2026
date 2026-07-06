@@ -1,0 +1,14 @@
+[package]
+name = "simulation_status"
+version = "0.1.0"
+edition = "2024"
+description = "Day 1: model a simulation's current stage with an enum (Display + match)"
+
+[dependencies]
+hoomd-rand = "1.1.0"
+rand = "0.10.1"
+rand_core = "0.10.1"
+
+# Binaries are auto-discovered:
+#   src/main.rs         -> `simulation_status` (student template):  cargo run
+#   src/bin/solution.rs -> `solution` (worked solution):            cargo run --bin solution

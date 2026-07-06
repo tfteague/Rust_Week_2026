@@ -1,0 +1,1 @@
+C:\Users\trevo\OneDrive\Documents\Rust_Week\Rust_Week_2026\Example_Code\day_1\floats_practice\target\debug\floats_practice.exe: C:\Users\trevo\OneDrive\Documents\Rust_Week\Rust_Week_2026\Example_Code\day_1\floats_practice\src\main.rs

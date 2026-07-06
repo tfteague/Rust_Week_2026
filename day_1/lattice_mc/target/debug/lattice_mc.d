@@ -1,0 +1,1 @@
+C:\Users\trevo\OneDrive\Documents\Rust_Week\Rust_Week_2026\Example_Code\day_1\lattice_mc\target\debug\lattice_mc.exe: C:\Users\trevo\OneDrive\Documents\Rust_Week\Rust_Week_2026\Example_Code\day_1\lattice_mc\src\main.rs

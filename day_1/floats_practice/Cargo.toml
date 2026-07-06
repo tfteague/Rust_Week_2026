@@ -1,0 +1,7 @@
+[package]
+name = "floats_practice"
+version = "0.1.0"
+edition = "2024"
+description = "Day 1: integer vs. float arithmetic, casting, and formatting"
+
+[dependencies]

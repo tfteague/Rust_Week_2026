@@ -1,0 +1,1 @@
+C:\Users\trevo\OneDrive\Documents\Rust_Week\Rust_Week_2026\Example_Code\day_1\hex_diamond\target\debug\hex_diamond.exe: C:\Users\trevo\OneDrive\Documents\Rust_Week\Rust_Week_2026\Example_Code\day_1\hex_diamond\src\main.rs

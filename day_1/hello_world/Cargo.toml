@@ -1,0 +1,7 @@
+[package]
+name = "hello_world"
+version = "0.1.0"
+edition = "2024"
+description = "Day 1: hello world — functions, bindings, and return values"
+
+[dependencies]
